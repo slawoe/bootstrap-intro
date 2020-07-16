@@ -1,8 +1,12 @@
 // Your variable overrides
-$body-bg: #000;
-$body-color: white;
-$primary: hotpink;
+$body-bg: white;
+$body-color: black;
+$primary: green;
 $font-family-base: Arial;
+$link-color: grey;
+$link-hover-color: orange;
+$jumbotron-bg: rgb(92, 92, 92);
+$jumbotron-color: white;
 
 // Include all Bootstrap
 @import "../node_modules/bootstrap/scss/bootstrap";
